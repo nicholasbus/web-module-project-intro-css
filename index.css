@@ -63,16 +63,16 @@ nav a {
     font-size: 1.2em;
 }
 
-nav a#planYourVisit {
+nav a.planYourVisit {
     background: #FF764E;
     margin-right: 3em;
 }
-nav a#learnAboutThePark {
+nav a.learnAboutThePark {
     background: #5ED3EB;
     margin-right: 3em;
     margin-left: 3em;
 }
-nav a#getInvolved {
+nav a.getInvolved {
     background: #FFCD69;
     margin-left: 3em;
 }
